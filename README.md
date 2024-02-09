@@ -17,3 +17,11 @@ La solución está en el archivo con extensión .py llamado Area.
 
 ## Solución Punto Dos. 
 La solución está en el archivo con extensión .py llamado Raiz de newton.
+
+## Punto Tres:
+
+* Calcular el vector proyección da A proyectado sobre B.
+
+## Solución Punto Tres.
+
+La solución está en el archivo con extensión .py llamado Vector_projection.
