@@ -11,3 +11,9 @@
 
 ## Solución Punto Uno. 
 La solución está en el archivo con extensión .py llamado Area.
+
+## Punto Dos:
+* Calcule por dónde pasa la función f(x)=x^3+3 por el eje X mediante el método de Newton.
+
+* ## Solución Punto Dos. 
+La solución está en el archivo con extensión .py llamado Raiz de newton.
