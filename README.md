@@ -25,3 +25,11 @@ La solución está en el archivo con extensión .py llamado Raiz de newton.
 ## Solución Punto Tres.
 
 La solución está en el archivo con extensión .py llamado Vector_projection.
+
+## Punto Cuatro:
+
+* Calcula la rotación del vector en 2D usando el operador de multiplicación dado el ángulo alpha y el vector.
+
+## Solución Punto Cuatro.
+
+La solución está en el archivo con extensión .py llamado vector_rotation.
