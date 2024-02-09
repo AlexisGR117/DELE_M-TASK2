@@ -1,5 +1,3 @@
-"""Calculate where the function f(x)=x^3+3 passes through axis X using Newtons Method"""
-
 def calculate_Newton_Root():
   value = -2
   difference = 1
@@ -10,3 +8,5 @@ def calculate_Newton_Root():
     difference = abs(initial_value - value)
     print(f"Initial Value: {initial_value}, Value: {value}, Difference: {difference}")
   return value
+
+calculate_Newton_Root()
